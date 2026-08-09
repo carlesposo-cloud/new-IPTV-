@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1,00s Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+#EXTINF:-1,90's Kids
+https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+#EXTINF:-1,90s Throwback
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+#EXTINF:-1,AccuWeather Network (720p)
+https://gpuserver3.tier1streams.com/AccuWeather/index.m3u8
+#EXTINF:-1,America's Funniest Home Videos (1080p)
+https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
+#EXTINF:-1,Animation+ (1080p) [Geo-blocked]
+https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+#EXTINF:-1,ANIME x HIDIVE (720p) [Geo-blocked]
+https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1,BBC Earth (1080p)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1,BBC Food (1080p)
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
+#EXTINF:-1,beIN Sports USA (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
+#EXTINF:-1,BET Cinema
+https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+#EXTINF:-1,CBS Sports Network USA (1080p)
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,Classic TV Comedy
+https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+#EXTINF:-1,Comedy Central (1080p)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1,Crunchyroll (720p)
+https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+#EXTINF:-1,CSI
+https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+#EXTINF:-1,Disney XD (720p)
+http://40.160.24.52/DISNEY_XD_HD/index.m3u8
+#EXTINF:-1,E! (1080p)
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1,FIFA+ United States (720p) [Geo-blocked]
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1,Flix (720p)
+https://gpuserver3.tier1streams.com/FLIX/index.m3u8
+#EXTINF:-1,Fox News International (720p)
+https://gpuserver3.tier1streams.com/FOX/index.m3u8
+#EXTINF:-1,Funny AF
+https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
+#EXTINF:-1,Gagsnetwork (576p)
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+#EXTINF:-1,Game Show Central (720p)
+https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
+#EXTINF:-1,Game Show Network (1080p)
+https://gpuserver3.tier1streams.com/GSN/index.m3u8
+#EXTINF:-1,Hallmark Movies & More (1080p)
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1,MGM+ (1080p)
+https://gpuserver3.tier1streams.com/EPIX/index.m3u8
+#EXTINF:-1,Mr. Bean Animated (1080p)
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,MTV (720p)
+http://40.160.24.53/MTV/index.m3u8
+#EXTINF:-1,MTV Live (1080p)
+http://40.160.24.53/MTV_LIVE/index.m3u8
+#EXTINF:-1,National Geographic (720p)
+http://40.160.24.53/NAT_GEO/index.m3u8
+#EXTINF:-1,NBA TV (1080p)
+https://cdn1.ayitistream.com/NBATV/index.m3u8
+#EXTINF:-1,NBC Comedy Vault (1080p)
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1,Nickelodeon (1080p)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1,Outdoor Channel (1080p)
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+#EXTINF:-1,Paramount Movie Channel
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1,Paramount Network (720p)
+http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
+#EXTINF:-1,Paramount+ Picks
+https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
+#EXTINF:-1,PBS Kids (720p)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1,Pokémon
+https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
+#EXTINF:-1,Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1,Showtime Family Zone (720p)
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1,STAR International (720p)
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1,Sundance TV (720p)
+http://40.160.24.55/SUNDANCE/index.m3u8
+#EXTINF:-1,TeenNick (720p)
+http://40.160.24.55/TEEN_NICK/index.m3u8
+#EXTINF:-1,Tennis Channel (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1,TennisChannel 2 (720p)
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+#EXTINF:-1,The Twilight Zone
+https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
+#EXTINF:-1,Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1,Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1,Universal Cinema (1080p)
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
+#EXTINF:-1,USA Today (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1,VH1 (720p)
+http://40.160.24.55/VH1/index.m3u8
+#EXTINF:-1,Wipeout
+https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
